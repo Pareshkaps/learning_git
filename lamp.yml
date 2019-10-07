@@ -12,3 +12,6 @@ state: present
 
 name: install tomcat
 status: tomcat started
+
+name: install apache
+status: apache started
