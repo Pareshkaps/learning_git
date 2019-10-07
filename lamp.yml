@@ -17,4 +17,4 @@ name: install apache
 status: apache started
 
 name: install fuse
-
+status: fuse started
