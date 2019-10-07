@@ -15,3 +15,6 @@ status: tomcat started
 
 name: install apache
 status: apache started
+
+name: install fuse
+
